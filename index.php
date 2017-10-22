@@ -1,3 +1,3 @@
 <?php
 
-echo "this is test for master branch";
+echo "this is test for develop branch";
